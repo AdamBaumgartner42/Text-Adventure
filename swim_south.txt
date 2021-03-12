@@ -1,0 +1,17 @@
+You swim south
+Because snow was falling, it must mean it's winter. Also, birds fly south for the winter.
+-----------------------------------------------------------------------------------------
+It takes a while... or maybe more than a while, but you finally reach a lush island filled with animals and fruits such as:
+monkeys, bananas, apples, capybaras, and small bright frogs.
+
+SUCCESS 
+
+...Triangles... Triangles...
+Why do you keep thinking of triangles? Is some of your memory coming back?
+-------------------------------------------------------------------------------------------------------
+As you trudge through the jungle you try to remember any details of anything that had previously happened.\n");
+
+For some reason, you remember hearing, 'All aboard! To... Triangle!
+--------------------------------------------------------------------
+As you draw your attention back to the present, you're faced with two choices for dinner:
+1. Aggregated berries   2. Nuts that smell like almonds

@@ -1,0 +1,7 @@
+You swim east
+-------------
+You swim east, but unfortunately your muscles have tired out for naught.
+Although, you do see that the sun moves to the right in the sky.
+Does that mean something?
+YOU FAILED
+

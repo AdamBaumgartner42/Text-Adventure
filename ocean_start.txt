@@ -1,0 +1,16 @@
+Welcome, your adventure takes place in the ocean.
+       .
+      ":"
+    ___:____     |"\/"|
+  ,'        `.    \  /
+  |  O        \___/  |
+~^~^~^~^~^~^~^~^~^~^~^~^~
+-------------------------------------------------
+You wake up, you're stranded in the middle of the ocean floating on a piece of driftwood.
+When you look around, you see a burning boat with ash and snow falling.
+You have no memory of any previous events whatsoever. Right now you know... your first objective is to find land.
+As you try to remember what happened and how you got stranded, you see a bird fly by.
+-------------------------------------------------------------------------------------
+In which direction do you swim?
+1. North,   2. East
+3. South,   4. West
